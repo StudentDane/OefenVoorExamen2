@@ -88,15 +88,5 @@ namespace ListBoxenEnCollections.Wpf
         {
             KandidaatToevoegen();
         }
-
-        private void TxtNaam_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
-        {
-            txtPartij.Focus();
-        }
-
-        private void TxtPartij_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
-        {
-            btnBevestig.Focus();
-        }
     }
 }
