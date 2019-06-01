@@ -87,6 +87,8 @@ namespace ListBoxenEnCollections.Wpf
         private void BtnBevestig_Click(object sender, RoutedEventArgs e)
         {
             KandidaatToevoegen();
+
+            // test
         }
     }
 }
