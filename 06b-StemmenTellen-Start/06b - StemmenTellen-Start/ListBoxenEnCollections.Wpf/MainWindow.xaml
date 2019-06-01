@@ -1,0 +1,16 @@
+﻿<Window x:Class="ListBoxenEnCollections.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListBoxenEnCollections.Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="257.309" Width="354.449">
+    <Grid>
+        <ListBox x:Name="lstKandidaten" HorizontalAlignment="Left" Height="156" Margin="33,39,0,0" VerticalAlignment="Top" Width="100" />
+        <Label Content="Kandidaten" HorizontalAlignment="Left" Margin="33,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <ListBox x:Name="lstStemmen" HorizontalAlignment="Left" Height="156" Margin="190,39,0,0" VerticalAlignment="Top" Width="121" HorizontalContentAlignment="Right"/>
+        <Label Content="Stemmen" HorizontalAlignment="Left" Margin="190,8,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
