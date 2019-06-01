@@ -58,3 +58,21 @@ D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\06 - Lussen\06b-StemmenTellen\06
 D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\06 - Lussen\06b-StemmenTellen\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.csproj.CoreCompileInputs.cache
 D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\06 - Lussen\06b-StemmenTellen\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.exe
 D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\06 - Lussen\06b-StemmenTellen\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.pdb
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\bin\Debug\ListBoxenEnCollections.Wpf.exe.config
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\bin\Debug\ListBoxenEnCollections.Wpf.exe
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\bin\Debug\ListBoxenEnCollections.Wpf.pdb
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\bin\Debug\Verkiezing.Lib.dll
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\bin\Debug\Verkiezing.Lib.pdb
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.csprojAssemblyReference.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\App.g.cs
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf_MarkupCompile.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf_MarkupCompile.lref
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\MainWindow.baml
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.g.resources
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.Properties.Resources.resources
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.csproj.GenerateResource.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.csproj.CopyComplete
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.exe
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\ListBoxenEnCollections.Wpf\obj\Debug\ListBoxenEnCollections.Wpf.pdb

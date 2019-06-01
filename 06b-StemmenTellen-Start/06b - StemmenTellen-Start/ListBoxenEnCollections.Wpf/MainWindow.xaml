@@ -5,12 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ListBoxenEnCollections.Wpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="257.309" Width="354.449">
+        Title="MainWindow" Height="428.242" Width="504.47" Loaded="Window_Loaded">
     <Grid>
-        <ListBox x:Name="lstKandidaten" HorizontalAlignment="Left" Height="156" Margin="33,39,0,0" VerticalAlignment="Top" Width="100" />
+        <ListBox x:Name="lstKandidaten" HorizontalAlignment="Left" Height="156" Margin="33,39,0,0" VerticalAlignment="Top" Width="289" SelectionChanged="LstKandidaten_SelectionChanged" />
         <Label Content="Kandidaten" HorizontalAlignment="Left" Margin="33,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <ListBox x:Name="lstStemmen" HorizontalAlignment="Left" Height="156" Margin="190,39,0,0" VerticalAlignment="Top" Width="121" HorizontalContentAlignment="Right"/>
-        <Label Content="Stemmen" HorizontalAlignment="Left" Margin="190,8,0,0" VerticalAlignment="Top" Width="100"/>
+        <ListBox x:Name="lstStemmen" HorizontalAlignment="Left" Height="156" Margin="377,39,0,0" VerticalAlignment="Top" Width="60" HorizontalContentAlignment="Right"/>
+        <Label Content="Stemmen" HorizontalAlignment="Left" Margin="377,8,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="lblNieuweKandidaat" Content="Voeg een nieuwe kandidaat toe" HorizontalAlignment="Left" Margin="33,234,0,0" VerticalAlignment="Top" Width="193"/>
+        <Label x:Name="lblNaam" Content="Naam:" HorizontalAlignment="Left" Margin="41,276,0,0" VerticalAlignment="Top" Width="64"/>
+        <Label x:Name="lblPartij" Content="Partij:" HorizontalAlignment="Left" Margin="202,276,0,0" VerticalAlignment="Top" Width="64"/>
+        <TextBox x:Name="txtNaam" HorizontalAlignment="Left" Height="23" Margin="41,307,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPartij" HorizontalAlignment="Left" Height="23" Margin="202,307,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnBevestig" Content="Bevestig" HorizontalAlignment="Left" Margin="352,307,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="BtnBevestig_Click"/>
+        <Label x:Name="lblFeedback" Content="Eventuele feedback zal hier worden getoond" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,346,0,0" Width="386"/>
 
     </Grid>
 </Window>

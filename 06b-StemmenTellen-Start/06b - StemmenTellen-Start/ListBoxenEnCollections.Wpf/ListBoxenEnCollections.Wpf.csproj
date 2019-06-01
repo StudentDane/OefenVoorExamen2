@@ -93,5 +93,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Verkiezing.Lib\Verkiezing.Lib.csproj">
+      <Project>{7879aef8-e321-4518-a069-07125eac9717}</Project>
+      <Name>Verkiezing.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

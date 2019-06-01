@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxenEnCollections.Wpf", "ListBoxenEnCollections.Wpf\ListBoxenEnCollections.Wpf.csproj", "{53F7CFE5-FFF1-475C-916B-8ECA33A8B922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verkiezing.Lib", "Verkiezing.Lib\Verkiezing.Lib.csproj", "{7879AEF8-E321-4518-A069-07125EAC9717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{53F7CFE5-FFF1-475C-916B-8ECA33A8B922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F7CFE5-FFF1-475C-916B-8ECA33A8B922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F7CFE5-FFF1-475C-916B-8ECA33A8B922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7879AEF8-E321-4518-A069-07125EAC9717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7879AEF8-E321-4518-A069-07125EAC9717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7879AEF8-E321-4518-A069-07125EAC9717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7879AEF8-E321-4518-A069-07125EAC9717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

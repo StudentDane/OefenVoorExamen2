@@ -1,0 +1,2 @@
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Kandidaat.Lib\obj\Debug\Kandidaat.Lib.csprojAssemblyReference.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Kandidaat.Lib\obj\Debug\Kandidaat.Lib.csproj.CoreCompileInputs.cache

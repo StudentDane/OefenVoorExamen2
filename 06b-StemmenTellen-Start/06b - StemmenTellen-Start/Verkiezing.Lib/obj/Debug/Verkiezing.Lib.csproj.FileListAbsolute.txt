@@ -1,0 +1,6 @@
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\bin\Debug\Verkiezing.Lib.dll
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\bin\Debug\Verkiezing.Lib.pdb
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\obj\Debug\Verkiezing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\obj\Debug\Verkiezing.Lib.dll
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\obj\Debug\Verkiezing.Lib.pdb
+C:\Users\dane_\Desktop\OefenVoorExamen2\06b-StemmenTellen-Start\06b - StemmenTellen-Start\Verkiezing.Lib\obj\Debug\Verkiezing.Lib.csprojAssemblyReference.cache
